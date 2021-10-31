@@ -1,4 +1,4 @@
-# WebAssembly Carrinho da Coleta
+<h1 align="center"> 🚗 WebAssembly Carrinho da Coleta 🚗</h1>
 
 <h4 align="center"> 	
 	Universidade Federal do ABC
